@@ -12,6 +12,5 @@ Agenda
 
 1. 6:30 - Meet and Greet. Drink some beer and eat some pizza compliments of [bwbacon group](http://www.bwbacon.com/ "bwbacon.com").
 2. 7:00 - 7:15 - Go and Cryptography - Part 3: Presentation by [Kyle Isom](http://www.github.com/gokyle).
-3. 7:15 - 7:30 - TBD (We have a couple people to pick from, just finalizing the details)
-4. 7:15 - 8:00 - Round Table / Pair Programming: We have a couple of topics that might be interesting to get people started on tonight.  We'll discuss them, then decide where to dive in.  If you have a specific topic/interest, let us know, and we can focus on that as well.
-5. 8:00 - 9:00 - Question and Answer session.
+3. 7:15 - 7:30 - Go, Can.js and JSON: Presentation by [Levi Cook](http://www.github.com/levicook).
+4. 7:15 - 9:00 - Round Table / Pair Programming / Question and Answer
